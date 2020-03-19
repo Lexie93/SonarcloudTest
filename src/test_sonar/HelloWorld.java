@@ -1,4 +1,4 @@
-package test2015;
+package test_sonar;
 
 public class HelloWorld {
 
