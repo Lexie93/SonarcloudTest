@@ -3,7 +3,7 @@ jdk:
 - openjdk8
 addons:
     sonarcloud:
-        organization: Lexie93
+        organization: lexie93
         token: 9f8a7e86ec6ccc28c7fe93d44054c301dba90851
 script:
 - ant build
