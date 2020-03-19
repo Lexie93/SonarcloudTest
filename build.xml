@@ -50,7 +50,7 @@
         <antcall target="build"/>
     </target>
     <target name="HelloWorld (1)">
-        <java classname="Test2015.HelloWorld" failonerror="true" fork="yes">
+        <java classname="test2015.HelloWorld" failonerror="true" fork="yes">
             <classpath refid="TestSonarcloud.classpath"/>
         </java>
     </target>
